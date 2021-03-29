@@ -14,3 +14,6 @@ rancher:
       nameservers:
         - 1.1.1.1
         - 8.8.8.8
+        
+ssh_authorized_keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDGlPUeaRB0GeOad9zguuROlylRDTFGZdlZlV1VXZFt9BxteNXaLMZyEg+dvwipXb6UHQm2URpGa0tO3alROubtN2FqEN0dREJPK57iAAGac4L2+XHRNpCDI3hA/7oLKzKu8iYhm0y7CIamzrv7FNP9oT3RQfMmgKXGDpw6htPUAjLc/kON3jr+6Z57m7fgKWSr34mZWQsZl7MUriJuxobZIU838dmF/v+mphgscRsTdK5NzrjH8E7EJz5sZDSf0jhnHADiS5d6BGu69WOjlzSeNZz7MMDrqqqodZXWv3usBazsnZ/IqNQnv7zKRv/FUU3Hy/bo9TCn/RDn58xNKeiJocy3ZNEUzZ5KMW3naYwqBhPgivbzpnl5ezdTtXghnJHtXLDhRNVTR3nulhhZ+DGxrs3r70fBPohvWBevzScgVnBAGFpl28A+QpOjuV6PkvkactvvwMRY1gfXYFTjBH/G7YBHWzfVipsMf79kYQ75Wr25oA86fd31GuAvXTv+sfE= cr@cr-laptop
